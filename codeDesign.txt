@@ -1,0 +1,26 @@
+Inputs : Origin, Destination, Choice (Bike, Auto, Economy, Premium)
+
+API
+Inputs : Origin, Destination
+Output : Distance, Duration
+
+------
+Offers
+------
+Coupon codes
+First rides 
+Loyalty privileges  
+
+Car Prices/km
+Bike : 6 Rs.
+Auto : 10 Rs.
+Economy : 17 Rs.
+Premium : 21 Rs.
+
+Account System
+Sign up/Login
+Customer ID (randomly generated) -> Username
+Age
+
+Later
+Referral system
